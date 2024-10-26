@@ -1,0 +1,12 @@
+C:\Users\casper\source\repos\at yarışı\at yarışı\bin\Debug\at yarışı.exe.config
+C:\Users\casper\source\repos\at yarışı\at yarışı\bin\Debug\at yarışı.exe
+C:\Users\casper\source\repos\at yarışı\at yarışı\bin\Debug\at yarışı.pdb
+C:\Users\casper\source\repos\at yarışı\at yarışı\obj\Debug\at yarışı.csproj.AssemblyReference.cache
+C:\Users\casper\source\repos\at yarışı\at yarışı\obj\Debug\at yarışı.csproj.SuggestedBindingRedirects.cache
+C:\Users\casper\source\repos\at yarışı\at yarışı\obj\Debug\at_yarışı.Form1.resources
+C:\Users\casper\source\repos\at yarışı\at yarışı\obj\Debug\at_yarışı.Properties.Resources.resources
+C:\Users\casper\source\repos\at yarışı\at yarışı\obj\Debug\at yarışı.csproj.GenerateResource.cache
+C:\Users\casper\source\repos\at yarışı\at yarışı\obj\Debug\at yarışı.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\at yarışı\at yarışı\obj\Debug\at yarışı.exe
+C:\Users\casper\source\repos\at yarışı\at yarışı\obj\Debug\at yarışı.pdb
+C:\Users\casper\source\repos\at yarışı\at yarışı\obj\Debug\at_yarışı.Form2.resources
